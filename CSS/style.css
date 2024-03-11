@@ -1,0 +1,481 @@
+nav{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: 0px 15px 15px gainsboro;
+    position: fixed;
+    top: 0;
+    z-index: 8;
+    margin: 0 auto;
+    background-color: white;    
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+}
+.divButton{
+    width: 180px;
+    height: 50px; 
+    display: flex;
+    justify-content: center;
+}
+.monPremierbutton{
+    width: 180px;
+    height: 50px;
+    border-radius: 40px;
+    background-color: red;
+    cursor: pointer;
+    border-style: none;
+    font-size: 1em;
+    color: white;
+}
+.logo span{
+    color: rgba(17, 175, 175, 0.5);
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: grey;
+}
+.logo a{
+    font-size: 2em;
+    text-decoration: none;
+}
+nav ul li a:hover{
+ color: red;
+
+}
+.logo h1{
+    color: rgb(170, 167, 167);
+}
+.leTiredelapage{
+    width: 100%;
+    height: 800px;
+    margin-top: 104px;
+}
+.divImage{
+    width: 100%;
+    height: 500px;
+.divImage p0{
+} font-size: 45px;
+}
+.divImage img{
+    width: 100%;
+    height:500px;
+}
+.divImage h1{
+    font-size: 30px;
+    margin-top: -129px;
+    margin-left: 50px;
+}
+.leTiredelapage p{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    color: aqua;
+}
+.divSticket{
+    width: 100%;
+    height: 400px;
+    border: 2px solid ;
+    margin-top: -2px;
+    background-color: aqua;
+    text-decoration: none;
+}
+.divSticket p{
+    display: flex;
+    margin-left: 50px;
+   margin-top: 158px;
+   font-size: 30px;
+   color: white;
+}
+.divSticket h4{
+    color: white;
+    margin-left: 40px;
+}
+.divSticket button{
+    width: 100px;
+    height: 40px;
+    margin-left: 80px;
+    background-color: red;
+    border-radius: 30px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+.divSticket p1{
+    display: flex;
+    margin-left: 400px;
+    color: white;
+    font-size: 30px;
+   margin-top: -165px;
+}
+.divSticket h{
+    font-size: 20px;
+    margin-top: 60px;
+   margin-left: -250px;
+}
+.divSticket button1{
+    width: 100px;
+    height: 40px;
+    margin-top: 150px;
+    background-color: red;
+    border-radius: 30px;
+    margin-left: -230px;
+    color: white;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divSticket p2{
+   margin-top: -36px;
+   margin-left: 200px;
+}
+.divSticket hm{
+    display: flex;
+    justify-content: center;
+    margin-top:-170px;
+    font-size: 15px;
+}
+.divSticket button2{
+   width: 100px;
+   height: 40px;
+   display: flex;
+   justify-content: center;
+   background-color: red;
+   border-radius: 30px;
+   margin-top: 20px;
+   font-size: 15px;
+   align-items: center;
+}
+.top p3{
+    justify-content: center;
+    display: flex;
+ margin-left: 980px;
+ margin-top: -260px;
+ font-size: 28px;
+ color: white;
+}
+.top hp{
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+}
+.top button{
+    width: 100px;
+    height: 40px;
+    margin-top: 90px;
+    margin-left: -190px;
+    background-color: red;
+    border-radius: 30px;
+    color: white;
+}
+.meet h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    color: aqua;
+}
+.meet p9{
+    display: flex;
+    justify-content: center;
+    margin-left: -900px;
+}
+.web{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+.image1 h4{
+    margin-left: 20px;
+    color:rgb(170, 167, 167);
+}
+.image2{
+    width: 300px;
+    height: 100px;
+    margin-left: 300px;
+    margin-top: -190px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dodo{
+    width: 370px;
+    height: 150px;
+    margin-left:700px;
+    margin-top: -100px;
+}
+.tuto{
+    width: 300px;
+    height: 160px;
+    margin-left: 1090px;
+    margin-top: -190px;
+}
+.lop{
+    width: 100%;
+    height: 50px;
+    margin-top: 25px;
+    background-color: white;
+
+}
+.lesImages{
+    width: 100%;
+    height: 350px;
+}
+.lesImages img{
+    width: 300px;
+}
+.TomNeville h2{
+    margin-top: -30px;
+    color: aqua;
+    margin-left: 30px;
+}
+.TomNeville p{
+    color: grey;
+    margin-left: 20px;
+}
+.garyTruman h2{
+    margin-left:340px;
+    color: aqua;
+    margin-top: -170px;
+}
+.garyTruman p{
+    margin-left: 320px;
+    color: grey;
+}
+.JohnPeterson h2{
+    margin-left: 670px;
+    margin-top: -150px;
+    color: aqua;
+}
+.JohnPeterson p{
+  margin-left: 650px;
+  color: gray;
+}
+.PhilBeasley h2{
+    margin-left: 1000px;
+    color: aqua;
+    margin-top: -115px;
+}
+.PhilBeasley p{
+    margin-left: 1000px;
+    color: gray;
+}
+.bn{
+    width: 100%;
+    height: 100px;bn
+   color: red;
+}
+.phi{
+    width: 300px;
+    height: 500px;
+}
+.jps h2{
+    margin-left: 900px;
+    margin-top: -400px;
+    font-size: 40px;
+}
+.jps p{
+    margin-left: 900px;
+    color: gray;
+
+}
+.jps button{
+    width: 100px;
+    height: 35px;
+    margin-left: 900px;
+    background-color: red;
+    border-radius: 40px;
+    color: white;
+}
+.gPlo{
+    width: 100%;
+    height: 100px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+     background-color:white ;
+     color: aqua;
+     font-size: 50px;
+}
+.vip{
+    width: 300px;
+    height: 400px;
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+}
+ .vip h3{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+   
+ }   
+ .mk{
+    margin-left: 95px;
+    margin-top: -300px;
+    color: aqua;
+    font-size: 30px;
+ }
+ .mk p{
+    color: rgba(128, 128, 128, 0.63);
+    font-size: 17px;
+    margin-left: -50px;
+ }
+ .vp{
+    width: 300px;
+    height: 400px;
+    background-color: gainsboro;
+    margin-left: 390px;
+    margin-top: -340px;
+ }
+ .vp h2{
+    margin-top: 90px;
+    font-size: 30px;
+    color: aqua;
+    margin-left: 60px;
+ }
+ .vp h1{
+    display: flex;
+    justify-content: center;
+ }
+ .vp p{
+    display: flex;
+    justify-content: center;
+    color: gray;
+ }
+ .l{
+    width: 300px;
+    height: 400px;
+    margin-left: 740px;
+    margin-top: -420px;
+    background-color: gainsboro;
+ }
+.l h2{
+    margin-top: 90px;
+    color: aqua;
+    margin-left: 90px;
+}
+.l p{
+    margin-top: 50px;
+    color: gray;
+}
+.l h1{
+    display: flex;
+    justify-content: center;
+}
+.op{
+    width: 300px;
+    height: 400px;
+    margin-left: 1100px;
+    margin-top: -418px;
+    background-color: gainsboro;
+}
+.op h1{
+    margin-left: 118px;
+}
+.op h2{
+    margin-left:70px;
+    margin: 80px;
+    color: aqua;
+}
+.op p{
+    margin-left: 70px;
+    color: gray;
+}
+.mp3{
+    width: 100%;
+    height: 150px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+
+}
+.mp3 button{
+    width: 200px;
+    height: 50px;
+    background-color: red;
+    margin-top:58px ;
+    border-radius: 40px;
+    color: white;
+
+}
+.hg{
+    width: 100%;
+    height: 450px;
+    background-color: rgba(220, 220, 220, 0.473);
+}
+.hg h1{
+    display: flex;
+    justify-content: center;
+    color: aqua;
+}
+.hg h3{
+    display: flex;
+    justify-content: center;
+    color: rgba(56, 43, 8, 0.267);
+}
+.hg img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.hg p{
+    margin-left: 90px;
+}
+.mg{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-left: 1000px;
+    margin-top: -300px;
+}
+.mg img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.ml{
+    width: 100%;
+    height: 600px;
+    margin-top: 250px; 
+}
+.ml img{
+    width: 100%;
+    height:600px ;
+}
+.ml h1{
+    margin-top: -430px;
+    margin-left: 68px;
+    color: white;
+    font-size: 70px;
+}
+.ml h2{
+    margin-left: 68px;
+    color: white;
+    font-size: 60px;
+}
+.ml button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    border-radius: 40px;
+    margin-left: 85px;
+    outline-style: none;
+    text-decoration: none;
+    cursor: pointer;
+}
+.apl{
+    
+}
