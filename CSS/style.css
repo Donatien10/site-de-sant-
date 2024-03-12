@@ -572,26 +572,41 @@ nav ul li a:hover{
     background-color: rgba(64, 64, 245, 0.925);
 }
 .ui h1{
-    color: white;
-    margin-top: 50px;
-    margin-left: 500px;
+  margin-left: 500px;
+  margin-top: -50px;
+  color: white;
 }
 .ui p{
-    
-    margin-top: 100px;
-    margin-left: 400px;
-    color: white;
+  margin-left: 450px;
+  margin-top: 60px;
 }
 .ui input{
-   
     width: 500px;
-    height: 40px;
-    margin-left: 400px;
-    margin-top: 80px;
-}
-.dg button{
+    height: 35px;
+    margin-left:360px;
+    margin-top: 58px;
     display: flex;
-    justify-content: center;
-    margin-left: 800px;
-    z-index: 58px;
+    text-decoration: none;
+    outline-style: none;
+
+}
+.ui button{
+   margin-top: 50px;
+   margin-left: 600px;
+   width: 100px;
+   height: 40px;
+   border-radius: 40px;
+   color: white;
+   background-color: red;
+   text-decoration: none;
+   outline-style: none;
+}
+.kop{
+    width: 100%;
+    height: 360px;
+    border: 2px solid black;
+}
+.kop img{
+    width: 100%;
+    height: 360px;
 }
